@@ -3,36 +3,36 @@
     {
       "imagePath": "asstes/note_image.png",
       "title": "Notes/ToDo App",
-      "description": "It's a digital application that functions as an electronic notebook, digital application that functions as an electronic notebook digital application that functions as an electronic notebook",
-      "link": "https://www.google.com/",
+      "description": "It's a digital application that functions as an electronic notebook, allowing you to jot down any thought that comes to mind, including ideas and notes. It also features a to-do list designed to assist you in managing your daily and weekly tasks. This helps you prioritize, track your progress, and ensure that all your tasks are completed on time, This application consists of two main windows: 'Notes' and 'To Do'",
+      "link": "https://play.google.com/store/apps/details?id=com.notes.todo",
       "preview_photo": "asstes/preview_pictures/note-app-pw.png"
     },
     {
       "imagePath": "asstes/icons/github.svg",
       "title": "News App",
-      "description": "description",
-      "link": "https://www.google.com/",
+      "description": "News app is a simple and easy application that uses the latest news from different sources around the world. The application is based on API which allows the news to be displayed dynamically and updated automatically.",
+      "link": "https://github.com/Abdallah1719/news_app",
       "preview_photo": "asstes/preview_pictures/news-app-pw.png"
     },
     {
       "imagePath": "asstes/icons/github.svg",
       "title": "Weather App",
-      "description": "description",
-      "link": "https://www.google.com/",
+      "description": "Weather app is an app that displays current weather information for any city around the world. The app relies on an API that allows weather information to be displayed dynamically and updated automatically.",
+      "link": "https://github.com/Abdallah1719/Weather-App",
       "preview_photo": "asstes/preview_pictures/weather-app-pw.png"
     },
     {
       "imagePath": "asstes/icons/github.svg",
       "title": "Chat App",
-      "description": "description",
-      "link": "https://www.google.com/",
+      "description": "Chat app is an instant messaging app that allows users to communicate with each other quickly and efficiently. The app uses Firebase to store data and manage users, making it easy to develop and scalable.",
+      "link": "https://github.com/Abdallah1719/Chat_App",
       "preview_photo": "asstes/preview_pictures/chat-app-pw.png"
     },
     {
       "imagePath": "asstes/icons/github.svg",
       "title": "Store App",
-      "description": "description",
-      "link": "https://www.google.com/",
+      "description": "The store application is an application that allows users to browse products and services, add them to the shopping cart, and complete the purchase process easily and efficiently. The application relies on a database to store products and user data.",
+      "link": "https://github.com/Abdallah1719/Store-App",
       "preview_photo": "asstes/preview_pictures/store-app-pw.png"
     }
   ]
