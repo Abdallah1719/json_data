@@ -2,52 +2,38 @@
   "workitems": [
     {
       "imagePath": "asstes/note_image.png",
-      "title": "Notes",
+      "title": "Notes/ToDo App",
       "description": "It's a digital application that functions as an electronic notebook, digital application that functions as an electronic notebook digital application that functions as an electronic notebook",
       "link": "https://www.google.com/",
-      "preview_photo": "asstes/preview_pictures/notes_photo.png"
+      "preview_photo": "asstes/preview_pictures/note-app-pw.png"
     },
     {
       "imagePath": "asstes/icons/github.svg",
-      "title": "abdallah",
+      "title": "News App",
       "description": "description",
       "link": "https://www.google.com/",
-      "preview_photo": "asstes/preview_pictures/notes_photo.png"
+      "preview_photo": "asstes/preview_pictures/news-app-pw.png"
     },
     {
       "imagePath": "asstes/icons/github.svg",
-      "title": "abdallah",
+      "title": "Weather App",
       "description": "description",
       "link": "https://www.google.com/",
-      "preview_photo": "asstes/preview_pictures/notes_photo.png"
+      "preview_photo": "asstes/preview_pictures/weather-app-pw.png"
     },
     {
       "imagePath": "asstes/icons/github.svg",
-      "title": "abdallah",
+      "title": "Chat App",
       "description": "description",
       "link": "https://www.google.com/",
-      "preview_photo": "asstes/preview_pictures/notes_photo.png"
+      "preview_photo": "asstes/preview_pictures/chat-app-pw.png"
     },
     {
       "imagePath": "asstes/icons/github.svg",
-      "title": "abdallah",
+      "title": "Store App",
       "description": "description",
       "link": "https://www.google.com/",
-      "preview_photo": "asstes/preview_pictures/notes_photo.png"
-    },
-    {
-      "imagePath": "asstes/icons/github.svg",
-      "title": "abdallah",
-      "description": "description",
-      "link": "https://www.google.com/",
-      "preview_photo": "asstes/preview_pictures/notes_photo.png"
-    },
-    {
-      "imagePath": "asstes/icons/github.svg",
-      "title": "abdallah",
-      "description": "description",
-      "link": "https://www.google.com/",
-      "preview_photo": "asstes/preview_pictures/notes_photo.png"
+      "preview_photo": "asstes/preview_pictures/store-app-pw.png"
     }
   ]
 }
