@@ -1,7 +1,28 @@
 {
   "workitems": [
     {
-      "imagePath": "asstes/note_image.png",
+      "imagePath": "asstes/apps_icons/Almarad_icon.png",
+      "title": "Al Marad - المعرض",
+      "description": "The exhibition application provides an exceptional experience for Cairo International Book Fair visitors, combining innovation and technology to serve readers of Egypt and the Arab world, publishing houses and sponsors. Browse the entire Cairo International Book Fair with us on the exhibition application.",
+      "link": "https://play.google.com/store/apps/details?id=com.maarad",
+      "preview_photo": "asstes/preview_pictures/note-app-pw.png"
+    },
+    {
+      "imagePath": "asstes/apps_icons/edustation_icon.jpg",
+      "title": "EduStation",
+      "description": "EduStation is a collaborative platform that simplifies the concept of cooperative training, fostering the development of the knowledge economy between university students, high school graduates, and the local and regional job market. It achieves this by offering daily field skills based on an hourly system to each registered student, according to their specialization and academic interests",
+      "link": "https://edustation.app",
+      "preview_photo": "asstes/preview_pictures/note-app-pw.png"
+    },
+    {
+      "imagePath": "asstes/apps_icons/alomda_icon.png",
+      "title": "Al Omda - العمده",
+      "description": "It's a digital application that functions as an electronic notebook, allowing you to jot down any thought that comes to mind, including ideas and notes. It also features a to-do list designed to assist you in managing your daily and weekly tasks. This helps you prioritize, track your progress, and ensure that all your tasks are completed on time, This application consists of two main windows: 'Notes' and 'To Do'",
+      "link": "https://apps.apple.com/us/app/al-omda-f-v/id6467420896",
+      "preview_photo": "asstes/preview_pictures/note-app-pw.png"
+    },
+    {
+      "imagePath": "asstes/apps_icons/note_icon.png",
       "title": "Notes/ToDo App",
       "description": "It's a digital application that functions as an electronic notebook, allowing you to jot down any thought that comes to mind, including ideas and notes. It also features a to-do list designed to assist you in managing your daily and weekly tasks. This helps you prioritize, track your progress, and ensure that all your tasks are completed on time, This application consists of two main windows: 'Notes' and 'To Do'",
       "link": "https://play.google.com/store/apps/details?id=com.notes.todo",
