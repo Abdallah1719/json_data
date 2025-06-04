@@ -15,6 +15,13 @@
       "preview_photo": "asstes/preview_pictures/elomda_pw.png"
     },
     {
+      "imagePath": "asstes/apps_icons/edustation_icon.jpg",
+      "title": "EduStation",
+      "description": "EduStation is a collaborative platform that simplifies the concept of cooperative training, fostering the development of the knowledge economy between university students, high school graduates, and the local and regional job market. It achieves this by offering daily field skills based on an hourly system to each registered student, according to their specialization and academic interests",
+      "link": "https://edustation.app",
+      "preview_photo": "asstes/preview_pictures/edustation_pw.png"
+    },
+    {
       "imagePath": "asstes/apps_icons/note_icon.png",
       "title": "Notes/ToDo App",
       "description": "It's a digital application that functions as an electronic notebook, allowing you to jot down any thought that comes to mind, including ideas and notes. It also features a to-do list designed to assist you in managing your daily and weekly tasks. This helps you prioritize, track your progress, and ensure that all your tasks are completed on time, This application consists of two main windows: 'Notes' and 'To Do'",
